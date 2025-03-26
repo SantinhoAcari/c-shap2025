@@ -1,0 +1,11 @@
+C:\Santinho\c-sharp-dotnet\santinhoTeste\bin\Debug\santinhoTeste.exe.config
+C:\Santinho\c-sharp-dotnet\santinhoTeste\bin\Debug\santinhoTeste.exe
+C:\Santinho\c-sharp-dotnet\santinhoTeste\bin\Debug\santinhoTeste.pdb
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.csproj.AssemblyReference.cache
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.Properties.Resources.resources
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.csproj.GenerateResource.cache
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.csproj.CoreCompileInputs.cache
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.exe
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.pdb
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.Form1.resources
+C:\Santinho\c-sharp-dotnet\santinhoTeste\obj\Debug\santinhoTeste.g.resources

@@ -1,0 +1,89 @@
+@WarehouseManager_HostAddress = http://localhost:5059
+
+GET {{WarehouseManager_HostAddress}}/api/categories
+###
+GET {{WarehouseManager_HostAddress}}/api/categories/1
+###
+POST {{WarehouseManager_HostAddress}}/api/categories
+Content-Type: application/json
+
+{
+    "name": "Categoria teste",
+    "description": "Descrição da nova categoria"
+}
+###
+PUT {{WarehouseManager_HostAddress}}/api/categories/1
+Content-Type: application/json
+
+{
+    "name": "Categoria Atualizada",
+    "description": "Descrição da categoria atualizada"
+}
+###
+DELETE {{WarehouseManager_HostAddress}}/api/categories/1
+###
+GET {{WarehouseManager_HostAddress}}/api/products
+###
+GET {{WarehouseManager_HostAddress}}/api/products/1
+###
+POST {{WarehouseManager_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+    "name": "Novo Produto",
+    "description": "Descrição do novo produto",
+    "quantity": 1,
+    "categoryId": 2
+}
+###
+PUT {{WarehouseManager_HostAddress}}/api/products/4
+Content-Type: application/json
+
+{
+    "name": "Produto 4",
+    "description": "Descrição do produto 4",
+    "quantity": 4,
+    "categoryId": 2
+}
+###
+DELETE {{WarehouseManager_HostAddress}}/api/products/4
+###
+GET {{WarehouseManager_HostAddress}}/api/receivers
+###
+GET {{WarehouseManager_HostAddress}}/api/receivers/4
+###
+POST {{WarehouseManager_HostAddress}}/api/receivers
+Content-Type: application/json
+
+{
+    "name": "Recebedor 4"
+}
+###
+PUT {{WarehouseManager_HostAddress}}/api/receivers/4
+Content-Type: application/json
+
+{
+    "name": "Recebedor quatro"
+}
+###
+DELETE {{WarehouseManager_HostAddress}}/api/receivers/4
+###
+GET {{WarehouseManager_HostAddress}}/api/transactions
+###
+GET {{WarehouseManager_HostAddress}}/api/transactions/1
+###
+POST {{WarehouseManager_HostAddress}}/api/transactions
+Content-Type: application/json
+
+{
+    "type": "entry",
+    "receiverId": 1
+}
+###
+PUT {{WarehouseManager_HostAddress}}/api/transactions/2
+Content-Type: application/json
+
+{
+    "type": "exit",
+    "receiverId": 1
+}

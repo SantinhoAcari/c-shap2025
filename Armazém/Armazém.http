@@ -1,0 +1,6 @@
+@Armazém_HostAddress = http://localhost:5068
+
+GET {{Armazém_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

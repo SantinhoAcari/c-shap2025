@@ -1,0 +1,11 @@
+C:\Santinho\C#-DotNet\DOGAO2025\bin\Debug\DOGAO2025.exe.config
+C:\Santinho\C#-DotNet\DOGAO2025\bin\Debug\DOGAO2025.exe
+C:\Santinho\C#-DotNet\DOGAO2025\bin\Debug\DOGAO2025.pdb
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.csproj.AssemblyReference.cache
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.Form1.resources
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.Properties.Resources.resources
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.csproj.GenerateResource.cache
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.csproj.CoreCompileInputs.cache
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.exe
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.pdb
+C:\Santinho\C#-DotNet\DOGAO2025\obj\Debug\DOGAO2025.FormPrincipal.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "santinhoA3Wanfranklin/1.0.0": {
+        "runtime": {
+          "santinhoA3Wanfranklin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "santinhoA3Wanfranklin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

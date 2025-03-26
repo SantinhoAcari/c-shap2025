@@ -1,0 +1,6 @@
+@apiDoZeroTwo_HostAddress = http://localhost:5096
+
+GET {{apiDoZeroTwo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

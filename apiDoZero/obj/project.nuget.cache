@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVISJBG+cNJT3Codm+C+x+U/4NeDS6ODMu+lp7TgdxSewt14jy+pGPQ0Lz3XPyGau2meu22mT//XRY7IlR6x4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Santinho\\c-sharp-dotnet\\apiDoZero\\apiDoZero.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

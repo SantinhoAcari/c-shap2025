@@ -1,0 +1,10 @@
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\bin\Debug\santinhoMessageShow.exe.config
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\bin\Debug\santinhoMessageShow.exe
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\bin\Debug\santinhoMessageShow.pdb
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.csproj.AssemblyReference.cache
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.Form1.resources
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.Properties.Resources.resources
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.csproj.GenerateResource.cache
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.csproj.CoreCompileInputs.cache
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.exe
+C:\Santinho\c-sharp-dotnet\santinhoMessageShow\obj\Debug\santinhoMessageShow.pdb
