@@ -1,0 +1,10 @@
+C:\Santinho\C_Sharp-DotNet\Dogao\bin\Debug\Dogao.exe.config
+C:\Santinho\C_Sharp-DotNet\Dogao\bin\Debug\Dogao.exe
+C:\Santinho\C_Sharp-DotNet\Dogao\bin\Debug\Dogao.pdb
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.csproj.AssemblyReference.cache
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.Form1.resources
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.Properties.Resources.resources
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.csproj.GenerateResource.cache
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.csproj.CoreCompileInputs.cache
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.exe
+C:\Santinho\C_Sharp-DotNet\Dogao\obj\Debug\Dogao.pdb
